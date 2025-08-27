@@ -1,0 +1,5 @@
+com\eventdriven\order\OrderServiceApplication.class
+com\eventdriven\order\controller\OrderController.class
+com\eventdriven\order\repository\OrderRepository.class
+com\eventdriven\order\model\Order.class
+com\eventdriven\order\service\OrderService.class

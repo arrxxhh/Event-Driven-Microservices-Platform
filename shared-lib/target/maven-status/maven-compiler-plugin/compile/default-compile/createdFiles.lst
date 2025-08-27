@@ -1,0 +1,10 @@
+com\eventdriven\shared\dto\OrderRequest.class
+com\eventdriven\shared\events\PaymentProcessedEvent.class
+com\eventdriven\shared\events\NotificationEvent.class
+com\eventdriven\shared\config\KafkaConfig.class
+com\eventdriven\shared\dto\OrderResponse.class
+com\eventdriven\shared\dto\OrderItem.class
+com\eventdriven\shared\events\OrderCreatedEvent.class
+com\eventdriven\shared\events\BaseEvent.class
+com\eventdriven\shared\events\InventoryRollbackEvent.class
+com\eventdriven\shared\events\InventoryReservedEvent.class
